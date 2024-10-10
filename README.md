@@ -29,7 +29,8 @@ I used a Support Vector machine (supervised learning algorithm) to classify data
 
 2.5
 
-    Fourthly, I evaluated the model using accuracy_score for both training and testing datasets where an accuracy score above 75% is considered good showing that the model can generalize well to new data
+    Fourthly, I evaluated the model using accuracy_score for both training and testing datasets where an accuracy score above 75% is considered good 
+    showing that the model can generalize well to new data
 
 2.6
 
