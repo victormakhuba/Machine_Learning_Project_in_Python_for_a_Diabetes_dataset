@@ -8,15 +8,15 @@ I used a Support Vector machine (supervised learning algorithm) to classify data
 
     I first collected the dataset which contains 768 samples (rows) and 9 features (columns), including:
     
-    Pregnancies
-    Glucose
-    BloodPressure
-    SkinThickness
-    Insulin
-    BMI
-    DiabetesPedigreeFunction
-    Age
-    Outcome
+    - Pregnancies
+    - Glucose
+    - BloodPressure
+    - SkinThickness
+    - Insulin
+    - BMI
+    - DiabetesPedigreeFunction
+    - Age
+    - Outcome
 
 2.3 
     Secondly, I processed the data by standardizing the data using StandardScaler from Sklearn so that I could ensure all features contribute equally.
@@ -34,6 +34,7 @@ I used a Support Vector machine (supervised learning algorithm) to classify data
 **3. Coding Environment**
 
     I used Jupyter on VsCode
+    
     I imported various liraries including numpy, pandas, abd sklearn
 
 
