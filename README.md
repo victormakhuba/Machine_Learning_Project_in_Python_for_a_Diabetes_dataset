@@ -7,6 +7,7 @@ I used a Support Vector machine (supervised learning algorithm) to classify data
 **2. My workflow**
 
     I first collected the dataset which contains 768 samples (rows) and 9 features (columns), including:
+    
     Pregnancies
     Glucose
     BloodPressure
