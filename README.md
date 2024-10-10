@@ -5,6 +5,7 @@ In this project my aim was to develop a machine learning model using Python that
 I used a Support Vector machine (supervised learning algorithm) to classify data into diabetic and non-diabetic categories.
 
 **My workflow**
+
 I first collected the dataset which contains 768 samples (rows) and 9 features (columns), including:
 1. Pregnancies
 2. Glucose
